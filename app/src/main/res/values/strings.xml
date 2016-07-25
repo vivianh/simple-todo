@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleTodo</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="title_activity_edit_item2">EditItemActivity2</string>
+</resources>
